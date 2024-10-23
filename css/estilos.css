@@ -136,6 +136,18 @@ body {
     display: var(--show, none);
 }
 
+/* ENLACES */
+a.nav__links {
+    text-decoration: none; /* Sin subrayado por defecto */
+    color: #3C3116; /* Ajusta el color del enlace si lo deseas */
+    transition: border-bottom 0.3s ease; /* Transición suave para el subrayado */
+}
+
+a.nav__links:hover {
+    border-bottom: 2px solid #3C3116; /* Línea subrayada al pasar el cursor */
+    color: #2e2611; /* Cambia el color si lo deseas */
+}
+
 
 /* Hero container */
 
