@@ -290,22 +290,22 @@ body {
     border-radius: 10px;
     width: 330px;
     padding: 40px;
-    --color-plan: #696871;
+    --color-plan: #424242;
     --color-price: #3C3116;
     --bg-cta: #fff;
     --color-cta: #3C3116;
-    --color-items: #696871;
+    --color-items: #424242;
 }
 
 .price__element--best{
     width: 370px;
     padding: 60px 40px;
     background-color: #ddbfd1;
-    --color-plan: rgb(255 255 255 / 75%);
+    --color-plan: #3C3116;
     --color-price: #3C3116;
     --bg-cta: #ffffff;
     --color-cta: #3C3116;
-    --color-items: #fff;
+    --color-items: #3C3116;
 }
 
 
@@ -394,7 +394,7 @@ body {
 }
 
 .testimony__course{
-    background-color: #b68fa6;
+    background-color: #823A61;
     color: #fff;
     display: inline-block;
     padding: 5px;
