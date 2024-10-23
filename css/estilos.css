@@ -5,7 +5,7 @@
     bottom: 20px;          /* Colocación desde la parte inferior de la ventana */
     right: 20px;           /* Colocación desde el lado derecho de la ventana */
     background-color: #ddbfd1;  /* Color de fondo azul */
-    color: #57451d;          /* Texto blanco */
+    color: #3C3116;          /* Texto blanco */
     padding: 10px 15px;    /* Relleno alrededor del texto */
     border: none;          /* Sin borde */
     border-radius: 5px;    /* Bordes redondeados */
@@ -21,7 +21,7 @@
 
 .menu-fijo {
     position: fixed;       /* El botón permanecerá fijo mientras se hace scroll */
-    color: #57451d;          /* Texto blanco */
+    color: #3C3116;          /* Texto blanco */
     border: none;          /* Sin borde */
     cursor: pointer;       /* Mostrar el puntero del ratón */
     z-index: 1000;         /* Colocarlo por encima de otros elementos */
@@ -34,7 +34,7 @@
 
 :root {
     --padding-container: 100px 0;
-    --color-title: #57451d;
+    --color-title: #3C3116;
 }
 
 body {
@@ -113,11 +113,11 @@ body {
 .nav__links {
     text-decoration: none;
     transition: color 10s ;
-    color: #57451d;
+    color: #3C3116;
 }
 
 .nav__links:hover {
-    color: #8f712f;
+    color: #2e2611;
 }
 
 .nav__menu {
@@ -152,7 +152,7 @@ body {
 
 .hero__title {
     font-size: 3rem;
-    color: #57451d;
+    color: #3C3116;
 }
 
 .hero__paragraph {
@@ -161,7 +161,7 @@ body {
 
 .cta {
     display: inline-block;
-    background-color: #57451d;
+    background-color: #3C3116;
     justify-self: center;
     color: #fff;
     text-decoration: none;
@@ -198,7 +198,7 @@ body {
 }
 
 .title {
-    color:#57451d;
+    color:#3C3116;
 }
 
 .subtitle {
@@ -291,9 +291,9 @@ body {
     width: 330px;
     padding: 40px;
     --color-plan: #696871;
-    --color-price: #57451d;
+    --color-price: #3C3116;
     --bg-cta: #fff;
-    --color-cta: #57451d;
+    --color-cta: #3C3116;
     --color-items: #696871;
 }
 
@@ -302,9 +302,9 @@ body {
     padding: 60px 40px;
     background-color: #ddbfd1;
     --color-plan: rgb(255 255 255 / 75%);
-    --color-price: #57451d;
+    --color-price: #3C3116;
     --bg-cta: #ffffff;
-    --color-cta: #57451d;
+    --color-cta: #3C3116;
     --color-items: #fff;
 }
 
@@ -421,7 +421,7 @@ body {
 .questions__padding{
     padding: 0;
     transition: padding .3s;
-    border: 1px solid #57451d;
+    border: 1px solid #3C3116;
     border-radius: 6px;
 }
 
@@ -490,7 +490,7 @@ body {
 }
 
 .footer__title, .footer__newsletter{
-    color: #57451d;
+    color: #3C3116;
 }
 
 
@@ -543,7 +543,7 @@ body {
     background-color: #ddbfd1;
     border: none;
     font-size: 1rem;
-    color: #57451d;
+    color: #3C3116;
     border-radius: 6px;
     cursor: pointer;
 }
@@ -551,7 +551,7 @@ body {
 .footer__copy{
     --padding-container: 30px 0;
     text-align: center;
-    color: #57451d;
+    color: #3C3116;
 }
 
 .footer__copyright{
