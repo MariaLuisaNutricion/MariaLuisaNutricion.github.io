@@ -401,6 +401,10 @@ a.nav__links:hover {
     padding: 60px;  /* */
 }
 
+.testimony__review{
+    color: #2e2611;
+}
+
 .testimony__texts{
     max-width: 700px;
 }
